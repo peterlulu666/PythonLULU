@@ -3,4 +3,5 @@ with open("data.csv", 'w') as f:
     for i in data:
         f.write(str(i) + '\n')
 
-    
+
+
