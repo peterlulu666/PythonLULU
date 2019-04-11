@@ -9,4 +9,4 @@ while True:
 print(ordering)
 
 for i in ordering:
-    print(i[0])
+    print("The price of " + i[0] + " is " + i[1])
