@@ -6,3 +6,7 @@ def sum_of_list(numbers):
 
 number = [1,2,3]
 print(sum_of_list(number))
+
+
+
+
